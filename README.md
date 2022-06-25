@@ -14,7 +14,7 @@
 
 ## [2] EDA: Exploratory data analysis
 
-1. EDA of Heberman's Dataset
+1. EDA of Haberman's Survival dataset
 2. EDA of Titanic Mortality dataset.
 
 
