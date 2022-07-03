@@ -130,3 +130,6 @@ dmypy.json
 
 # Visual Studio Code - User and Workspace Settings
 .vscode
+
+# IntelliJ's project specific settings files
+.idea
