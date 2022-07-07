@@ -3,6 +3,7 @@
 1. Distributions.
 2. EDA.
 3. KNN Algorithm.
+4. Naive Bayes classifier.
 
 
 ## [1] Distributions
@@ -28,3 +29,11 @@ Objective of `K-Nearest Neighbor (KNN).ipynb` notebook:
 1. Plot cluster of data-point.
 2. Implementing KNN algorithm from scratch.
 3. Test the accuracy of the model trained on KNN.
+
+
+## [4] Naive Bayes classifier
+
+Objective of `Naive Bayes.ipynb` notebook:
+
+1. Implement simple Naive Bayes classifier for categorical features.
+2. Train and test model on sample weather forecast dataset using Naive Bayes.
