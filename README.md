@@ -33,7 +33,12 @@ Objective of `K-Nearest Neighbor (KNN).ipynb` notebook:
 
 ## [4] Naive Bayes classifier
 
-Objective of `Naive Bayes.ipynb` notebook:
+Objective of `Naive Bayes Classifier.ipynb` notebook:
 
 1. Implement simple Naive Bayes classifier for categorical features.
 2. Train and test model on sample weather forecast dataset using Naive Bayes.
+
+Objective of `Naive Bayes Classifier - CategoricalNB.ipynb` notebook:
+
+1. Train Naive Bayes classifier using `CategoricalNB` from `sklearn`.
+2. Train and test model on sample weather forecast dataset.
