@@ -56,6 +56,10 @@ Implement cost function for multivariate _Linear Regression_ based on **Squared 
 
 Implement **Batch Gradient Descent** to minimize _Squared Error Cost function_.
 
-#### Objective of `3. Linear Regression.ipynb` notebook:
+#### Objective of `3. Linear Regression - Gradient Descent.ipynb` notebook:
 
 Implement multivariate **Linear Regression** using _Gradient Descent_ minimization technique.
+
+#### Objective of `4. Linear Regression - Normal Equation.ipynb` notebook:
+
+Implement multivariate **Linear Regression** using _Normal Equation_ technique.
