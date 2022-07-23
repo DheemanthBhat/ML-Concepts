@@ -46,6 +46,10 @@ folder before funning the notebook.
 
 ## [5] Logistic Regression
 
+#### Objective of `3. Logistic Regression.ipynb` notebook:
+
+Implement multinomial **Logistic Regression** using _Gradient Descent_ minimization technique.
+
 ## [6] Linear Regression
 
 #### Objective of `1. Squared Error Cost Function.ipynb` notebook:
