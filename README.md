@@ -1,11 +1,13 @@
 # ML-Concepts
 
-1. Distributions.
-2. EDA.
-3. KNN Algorithm.
-4. Naive Bayes classifier.
-5. Logistic Regression.
-6. Linear Regression.
+## Index
+
+1. [Distributions][1].
+2. [EDA][2].
+3. [KNN Algorithm][3].
+4. [Naive Bayes classifier][4].
+5. [Logistic Regression][5].
+6. [Linear Regression][6].
 
 ## [1] Distributions
 
@@ -67,3 +69,12 @@ Implement multivariate **Linear Regression** using _Gradient Descent_ minimizati
 #### Objective of `4. Linear Regression - Normal Equation.ipynb` notebook:
 
 Implement multivariate **Linear Regression** using _Normal Equation_ technique.
+
+
+<!-- Permalinks for Index -->
+[1]: https://github.com/DheemanthBhat/ML-Concepts/blob/d4fcca7cc6b066e940597daa7f517f205041e1d0/1.%20Distributions/
+[2]: https://github.com/DheemanthBhat/ML-Concepts/blob/2493dcdd9445623b135b297781c07543bd691334/2.%20EDA/
+[3]: https://github.com/DheemanthBhat/ML-Concepts/blob/2493dcdd9445623b135b297781c07543bd691334/3.%20K-Nearest%20Neighbor%20(KNN)/
+[4]: https://github.com/DheemanthBhat/ML-Concepts/blob/2493dcdd9445623b135b297781c07543bd691334/4.%20Naive%20Bayes/
+[5]: https://github.com/DheemanthBhat/ML-Concepts/blob/2493dcdd9445623b135b297781c07543bd691334/5.%20Logistic%20Regression/
+[6]: https://github.com/DheemanthBhat/ML-Concepts/blob/2493dcdd9445623b135b297781c07543bd691334/6.%20Linear%20Regression/
