@@ -8,6 +8,7 @@
 4. [Naive Bayes classifier][4].
 5. [Logistic Regression][5].
 6. [Linear Regression][6].
+7. [Support Vector Machine][7].
 
 ## [1] Distributions
 
@@ -16,13 +17,13 @@
 3. Q-Q PLot
 
 
-## [2] EDA: Exploratory data analysis
+## [2] EDA: Exploratory Data Analysis
 
 1. EDA of Haberman's Survival dataset
 2. EDA of Titanic Mortality dataset.
 
 
-## [3] KNN
+## [3] K-Nearest Neighbor (KNN)
 
 > Note: Create folder by name `Output` inside `3. K-Nearest Neighbor (KNN)`
 folder before funning the notebook.
@@ -70,6 +71,11 @@ Implement multivariate **Linear Regression** using _Gradient Descent_ minimizati
 
 Implement multivariate **Linear Regression** using _Normal Equation_ technique.
 
+## [7] Support Vector Machine (SVM)
+
+#### Objective of `1. Linear SVR - Gradient Descent.ipynb` notebook:
+
+Implement **Support Vector Regression** without any Kernel i.e., linear-SVR.
 
 <!-- Permalinks for Index -->
 [1]: https://github.com/DheemanthBhat/ML-Concepts/blob/d4fcca7cc6b066e940597daa7f517f205041e1d0/1.%20Distributions/
@@ -78,3 +84,4 @@ Implement multivariate **Linear Regression** using _Normal Equation_ technique.
 [4]: https://github.com/DheemanthBhat/ML-Concepts/blob/2493dcdd9445623b135b297781c07543bd691334/4.%20Naive%20Bayes/
 [5]: https://github.com/DheemanthBhat/ML-Concepts/blob/2493dcdd9445623b135b297781c07543bd691334/5.%20Logistic%20Regression/
 [6]: https://github.com/DheemanthBhat/ML-Concepts/blob/2493dcdd9445623b135b297781c07543bd691334/6.%20Linear%20Regression/
+[7]: #
