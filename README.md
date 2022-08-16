@@ -8,7 +8,7 @@
 4. [Naive Bayes classifier][4].
 5. [Logistic Regression][5].
 6. [Linear Regression][6].
-7. [Support Vector Machine][7].
+7. ~~[Support Vector Machine][7].~~
 
 ## [1] Distributions
 
@@ -71,11 +71,11 @@ Implement multivariate **Linear Regression** using _Gradient Descent_ minimizati
 
 Implement multivariate **Linear Regression** using _Normal Equation_ technique.
 
-## [7] Support Vector Machine (SVM)
+## ~~[7] Support Vector Machine (SVM)~~
 
-#### Objective of `1. Linear SVR - Gradient Descent.ipynb` notebook:
+#### ~~Objective of `1. Linear SVR - Gradient Descent.ipynb` notebook:~~
 
-Implement **Support Vector Regression** without any Kernel i.e., linear-SVR.
+~~Implement **Support Vector Regression** without any Kernel i.e., linear-SVR.~~
 
 <!-- Permalinks for Index -->
 [1]: https://github.com/DheemanthBhat/ML-Concepts/blob/d4fcca7cc6b066e940597daa7f517f205041e1d0/1.%20Distributions/
