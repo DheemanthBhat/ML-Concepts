@@ -95,6 +95,6 @@ Visualize decision tree
 [5]: https://github.com/DheemanthBhat/ML-Concepts/blob/2493dcdd9445623b135b297781c07543bd691334/5.%20Logistic%20Regression/
 [6]: https://github.com/DheemanthBhat/ML-Concepts/blob/2493dcdd9445623b135b297781c07543bd691334/6.%20Linear%20Regression/
 [7]: #
-[8]: #
+[8]: https://github.com/DheemanthBhat/ML-Concepts/blob/a2edea0bb6656ecfa068dc80dec065ca5d74da41/08.%20Decision%20Tree/
 [9]: #
-[10]: #
+[10]: https://github.com/DheemanthBhat/ML-Concepts/blob/a2edea0bb6656ecfa068dc80dec065ca5d74da41/10.%20Boosting/
