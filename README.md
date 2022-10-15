@@ -9,6 +9,9 @@
 5. [Logistic Regression][5].
 6. [Linear Regression][6].
 7. ~~[Support Vector Machine][7].~~
+8. [Decision Tree][8]
+9. [Random Forest][9]
+10. [Boosting][10]
 
 ## [1] Distributions
 
@@ -77,6 +80,13 @@ Implement multivariate **Linear Regression** using _Normal Equation_ technique.
 
 ~~Implement **Support Vector Regression** without any Kernel i.e., linear-SVR.~~
 
+## [8] Decision Tree
+
+#### Objective of `2. Decision Tree - DecisionTreeClassifier.ipynb` notebook
+
+Visualize decision tree
+
+
 <!-- Permalinks for Index -->
 [1]: https://github.com/DheemanthBhat/ML-Concepts/blob/d4fcca7cc6b066e940597daa7f517f205041e1d0/1.%20Distributions/
 [2]: https://github.com/DheemanthBhat/ML-Concepts/blob/2493dcdd9445623b135b297781c07543bd691334/2.%20EDA/
@@ -85,3 +95,6 @@ Implement multivariate **Linear Regression** using _Normal Equation_ technique.
 [5]: https://github.com/DheemanthBhat/ML-Concepts/blob/2493dcdd9445623b135b297781c07543bd691334/5.%20Logistic%20Regression/
 [6]: https://github.com/DheemanthBhat/ML-Concepts/blob/2493dcdd9445623b135b297781c07543bd691334/6.%20Linear%20Regression/
 [7]: #
+[8]: #
+[9]: #
+[10]: #
